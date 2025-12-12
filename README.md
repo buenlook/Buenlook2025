@@ -1,0 +1,1 @@
+Este es nuestro proyecto basado en una indumentaria de ropa que se nos ocurrio a nuestro grupo como una forma de aprender a hacer una pagina de forma mas profesional en caso de querer crear nuestro propio emprendimiento. Esta pagina web esta estructurada con HTML semantico y utiliza las etiquetas '<header>', '<main>', y '<footer>' para organizar el contenido.
